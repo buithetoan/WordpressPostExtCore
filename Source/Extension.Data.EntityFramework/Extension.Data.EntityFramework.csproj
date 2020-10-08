@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ExtCore.Data.EntityFramework.SqlServer" Version="5.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Extension.Data.Abstractions\Extension.Data.Abstractions.csproj" />
+    <ProjectReference Include="..\Extension.Data.Entities\Extension.Data.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
