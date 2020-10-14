@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extension.Data.Entities", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extension.Data.EntityFramework", "..\Source\Extension.Data.EntityFramework\Extension.Data.EntityFramework.csproj", "{1C13C3C0-0D10-470E-B193-773E0EEB07CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension.Common", "..\Source\Extension.Common\Extension.Common.csproj", "{BF557359-58BE-4852-BF6D-45C42B8E2886}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1C13C3C0-0D10-470E-B193-773E0EEB07CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C13C3C0-0D10-470E-B193-773E0EEB07CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C13C3C0-0D10-470E-B193-773E0EEB07CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF557359-58BE-4852-BF6D-45C42B8E2886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF557359-58BE-4852-BF6D-45C42B8E2886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF557359-58BE-4852-BF6D-45C42B8E2886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF557359-58BE-4852-BF6D-45C42B8E2886}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

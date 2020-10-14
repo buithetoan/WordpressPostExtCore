@@ -6,10 +6,12 @@
 
   <ItemGroup>
     <PackageReference Include="ExtCore.Mvc.Infrastructure" Version="5.1.0" />
+    <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.21" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Extension.Data.Abstractions\Extension.Data.Abstractions.csproj" />
+    <ProjectReference Include="..\Extension.Data.EntityFramework\Extension.Data.EntityFramework.csproj" />
   </ItemGroup>
 
 </Project>

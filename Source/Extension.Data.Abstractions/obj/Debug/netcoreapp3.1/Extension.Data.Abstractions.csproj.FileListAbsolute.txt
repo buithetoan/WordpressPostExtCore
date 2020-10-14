@@ -1,0 +1,14 @@
+D:\TPlus\WordpressPostExtCore\Source\Extension.Data.Abstractions\bin\Debug\netcoreapp3.1\Extension.Data.Abstractions.deps.json
+D:\TPlus\WordpressPostExtCore\Source\Extension.Data.Abstractions\bin\Debug\netcoreapp3.1\Extension.Data.Abstractions.dll
+D:\TPlus\WordpressPostExtCore\Source\Extension.Data.Abstractions\bin\Debug\netcoreapp3.1\Extension.Data.Abstractions.pdb
+D:\TPlus\WordpressPostExtCore\Source\Extension.Data.Abstractions\bin\Debug\netcoreapp3.1\Extension.Data.Entities.dll
+D:\TPlus\WordpressPostExtCore\Source\Extension.Data.Abstractions\bin\Debug\netcoreapp3.1\Extension.Data.Entities.pdb
+D:\TPlus\WordpressPostExtCore\Source\Extension.Data.Abstractions\obj\Debug\netcoreapp3.1\Extension.Data.Abstractions.csprojAssemblyReference.cache
+D:\TPlus\WordpressPostExtCore\Source\Extension.Data.Abstractions\obj\Debug\netcoreapp3.1\Extension.Data.Abstractions.AssemblyInfoInputs.cache
+D:\TPlus\WordpressPostExtCore\Source\Extension.Data.Abstractions\obj\Debug\netcoreapp3.1\Extension.Data.Abstractions.AssemblyInfo.cs
+D:\TPlus\WordpressPostExtCore\Source\Extension.Data.Abstractions\obj\Debug\netcoreapp3.1\Extension.Data.Abstractions.csproj.CoreCompileInputs.cache
+D:\TPlus\WordpressPostExtCore\Source\Extension.Data.Abstractions\obj\Debug\netcoreapp3.1\Extension.Data.Abstractions.csproj.CopyComplete
+D:\TPlus\WordpressPostExtCore\Source\Extension.Data.Abstractions\obj\Debug\netcoreapp3.1\Extension.Data.Abstractions.dll
+D:\TPlus\WordpressPostExtCore\Source\Extension.Data.Abstractions\obj\Debug\netcoreapp3.1\Extension.Data.Abstractions.pdb
+D:\TPlus\WordpressPostExtCore\Source\Extension.Data.Abstractions\bin\Debug\netcoreapp3.1\Extension.Common.dll
+D:\TPlus\WordpressPostExtCore\Source\Extension.Data.Abstractions\bin\Debug\netcoreapp3.1\Extension.Common.pdb

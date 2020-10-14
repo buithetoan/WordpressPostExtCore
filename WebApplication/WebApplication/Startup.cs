@@ -27,18 +27,11 @@ namespace WebApplication
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddExtCore(this.extensionsPath, this.Configuration["Extensions:IncludingSubpaths"] == true.ToString());
-            services.Configure<StorageContextOptions>(options =>
-            {
-                options.ConnectionString = this.Configuration.GetConnectionString("Default");
-            });
+            services.AddExtCore(this.extensionsPath);
         }
 
         public void Configure(IApplicationBuilder applicationBuilder, IWebHostEnvironment webHostEnvironment)
         {
-            if (webHostEnvironment.IsDevelopment())
-                applicationBuilder.UseDeveloperExceptionPage();
-
             applicationBuilder.UseExtCore();
         }
     }

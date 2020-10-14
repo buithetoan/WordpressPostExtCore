@@ -9,6 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Extension.Common\Extension.Common.csproj" />
     <ProjectReference Include="..\Extension.Data.Entities\Extension.Data.Entities.csproj" />
   </ItemGroup>
 

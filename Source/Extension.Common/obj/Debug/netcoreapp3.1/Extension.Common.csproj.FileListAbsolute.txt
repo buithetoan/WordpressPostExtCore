@@ -1,0 +1,8 @@
+D:\TPlus\WordpressPostExtCore\Source\Extension.Common\bin\Debug\netcoreapp3.1\Extension.Common.deps.json
+D:\TPlus\WordpressPostExtCore\Source\Extension.Common\bin\Debug\netcoreapp3.1\Extension.Common.dll
+D:\TPlus\WordpressPostExtCore\Source\Extension.Common\bin\Debug\netcoreapp3.1\Extension.Common.pdb
+D:\TPlus\WordpressPostExtCore\Source\Extension.Common\obj\Debug\netcoreapp3.1\Extension.Common.AssemblyInfoInputs.cache
+D:\TPlus\WordpressPostExtCore\Source\Extension.Common\obj\Debug\netcoreapp3.1\Extension.Common.AssemblyInfo.cs
+D:\TPlus\WordpressPostExtCore\Source\Extension.Common\obj\Debug\netcoreapp3.1\Extension.Common.csproj.CoreCompileInputs.cache
+D:\TPlus\WordpressPostExtCore\Source\Extension.Common\obj\Debug\netcoreapp3.1\Extension.Common.dll
+D:\TPlus\WordpressPostExtCore\Source\Extension.Common\obj\Debug\netcoreapp3.1\Extension.Common.pdb
